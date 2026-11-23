@@ -25,3 +25,4 @@ curl localhost:3000/api/admin -H "Authorization: Bearer $TOKEN"
 
 Respuestas: sin token o token inválido → `401`; autenticado sin el rol → `403`.
 # web-actividad
+# web-actividad
